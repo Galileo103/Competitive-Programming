@@ -85,6 +85,8 @@ Second I work randomly but you should be organize and follow the STAGES Process
   		<dd>Organize and present the results of data mining. Deployment can be as simple as generating a report or as complex as implementing a repeatable data mining process.</dd>
     </li>
   </ol>
+  
+  
   ## Learn-Data-Science-In-30-Days
   if you follow this I think you will learn the concept of Data Sciences and Machine Learning in only 30 Days by IBM SPSS Modeler
   
