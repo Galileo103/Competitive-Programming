@@ -13,7 +13,6 @@ I begin read data dictionary of the problem features and do data visualization t
 <ul>
   <li>bathroomcnt</li>
   <li>bedroomcnt</li>
-  <li>Milk</li>
   <li>buildingclasstypeid</li>
   <li>calculatedbathnbr</li>
   <li>finishedsquarefeet12</li>
@@ -53,7 +52,7 @@ Surprise "Evaluation Excption Submission must have 3 Millions Records"
 I start search and view my file and tables etc after 9 hours I discovered that I must delete all select nodes in my stream it use only when I build my model then I fixed it and make file submit again and upload it and get "0.0651445" MAE and reach to the 1580 in leaderboard it was a great moment in July 
 In IBM I told my instructor about where did I get and learn from him some things about data preparation when I back to my home I found new fields such as garagecarcnt, garagetotalsqft and see the garagecarcnt = 0 and garagetotalsqft = 350.000 so here I make garagetotalsqft = 0 and detect that assessmentyear has one value and 99.8% of his value is missing so I ignore it etc.
 
-In my second submit I got "0.0650009" MAE and go to 1361 in leaderboard in the last day in the trial and hope to improve it
+In my second submit I got "0.0649675" MAE and go to 1361 in leaderboard in the last day in the trial and hope to improve it
 
 ## What is the purpose of all those words above?
 First motivate you, motivate you and motivate you Its my First Problem in machine learning
